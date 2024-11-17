@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Hanziwww!
 
-<!--
-**Hanziwww/Hanziwww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an undergraduate student majoring in Medicine, passionate about various fields of life sciences. My primary research interests are in hearing and cancer.
 
-Here are some ideas to get you started:
+## 🔬 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Computational Chemistry** 🧪
+  - Molecular Docking
+  - Dynamics Simulations
+
+- **Single-Cell Omics** 🧬
+  - Data Analysis and Processing
+
+- **Deep Learning** 🤖
+  - Applications in Biomedical Research
+
+- **Basic Medical Experiments** 🥼
+  - Experimental Design and Execution
+- **Programming** 💻
+  - R
+  - Python
+
+## 🌟 Interests
+
+I'm enthusiastic about exploring complex issues in biomedical science, especially using modern technological approaches to advance medical research.
+
+## 📫 Contact Me
+
+Feel free to reach out if you're interested in my work or have any questions: marspenman@gmail.com
